@@ -5,11 +5,11 @@ I am a student of computer science and technology department.
 I am learning software development.
 
 Skills:
-HTML/CSS
-C
-C++
-C#
-PYTHON
+✔HTML/CSS
+✔C
+✔C++
+✔C#
+✔PYTHON
 
 - 🔭 I’m currently working on this page. 
 
