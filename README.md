@@ -34,4 +34,3 @@ Skills: <br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjihadalom)  
 # --[ Thanks for watching my github profile ]--<br> 
 # © MD JIHAD ALOM
-https://web.facebook.com/
