@@ -33,7 +33,4 @@ Skills: <br>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjihadalom)  
 
-
-
-![Thanks for watching my github profile]
-# ❣❣❣❣❣ Thanks for watching my github profile ❣❣❣❣❣
+![ Thanks for watcging my github profile ](https://github.com/mdjihadalom)  
