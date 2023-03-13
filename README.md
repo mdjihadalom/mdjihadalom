@@ -1,6 +1,6 @@
 
 # Hi there 👋 I,m Md Jihad Alom.
-## Learner..
+## Learner...
 I am a student of computer science and technology department.
 I am learning software development.
 I’m currently learn at CSE Fundamental with Phitron course. 
@@ -34,3 +34,4 @@ Skills: <br>
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjihadalom)  
 # --[ Thanks for watching my github profile ]--<br> 
 # © MD JIHAD ALOM
+https://web.facebook.com/
