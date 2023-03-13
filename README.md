@@ -10,7 +10,7 @@ Skills: <br>
 ✅ C++ <br>
 ✅ C# <br>
 ✅ PYTHON <br>
-✅Photoshop / Illustrator / Canva
+✅Photoshop / Illustrator / Canva <br>
 ✅ Whiteboard Animation
 
 
