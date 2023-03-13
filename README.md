@@ -32,5 +32,4 @@ Skills: <br>
 ![GitHub metrics](https://metrics.lecoq.io/mdjihadalom)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdjihadalom)  
-
-![ Thanks for watcging my github profile ](https://github.com/mdjihadalom)  
+![ Thanks for watching my github profile ](https://gpvc.arturio.dev/mdjihadalom)  
