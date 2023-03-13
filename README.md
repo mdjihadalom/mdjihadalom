@@ -5,13 +5,13 @@ I am a student of computer science and technology department.
 I am learning software development.
 
 Skills:
-✔HTML/CSS <br>
-✔C
-✔C++
-✔C#
-✔PYTHON
+✅ HTML/CSS <br>
+✅ C <br>
+✅ C++ <br>
+✅ C# <br>
+✅ PYTHON <br>
 
-- 🔭 I’m currently learn with CSE . 
+🔰I’m currently learn at CSE Fundamental with Phitron course. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdjihadalom)  
