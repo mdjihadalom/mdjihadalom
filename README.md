@@ -35,4 +35,4 @@ Skills: <br>
 ![Profile views](https://gpvc.arturio.dev/mdjihadalom)  
 
 
-# ❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣Thanks for watching my github profile❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣❣
+# ❣❣❣❣❣ Thanks for watching my github profile ❣❣❣❣❣
