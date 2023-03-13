@@ -1,6 +1,6 @@
 
-### Hi there 👋 I,m Md Jihad Alom.
-### Learner..
+# Hi there 👋 I,m Md Jihad Alom.
+## Learner..
 I am a student of computer science and technology department.
 I am learning software development.
 
