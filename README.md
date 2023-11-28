@@ -14,12 +14,21 @@
 
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-<br><br>
-- :technologist: I love using Software to solve every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
+<br>
+### Hi there! 👋 I'm Md Jihad Alom
+
+🎓 Computer Science and Technology student at Sylhet Polytechnic Institute.
+
+💻 I'm passionate about coding and exploring the vast world of technology.
+
+🚀 Always eager to learn and dive into something new in the realm of computer science.
+
+👨‍💻 Aspiring programmer, constantly honing my skills and tackling exciting coding challenges.
+
+🌱 I believe in continuous learning and the power of curiosity to drive innovation.
+
+Connect with me, and let's code something amazing together! 🚀
+- :technologist: [MY RESUME](#).
 - :boom: You can visit [MY WEBSITE](#).
 <be>
 
