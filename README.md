@@ -65,19 +65,17 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 ## Tools 
 
-
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
+[![Code Block Badge](https://img.shields.io/badge/Code_Block-555555?style=for-the-badge&labelColor=black)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) 
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#) 
-[![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
-[![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
-[![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
+[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#)  
+[![OneNote Badge](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&labelColor=black&logo=onenote&logoColor=7719AA)](https://www.onenote.com/)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
-[![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
-[![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
-[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
+[![Google Meet Badge](https://img.shields.io/badge/Google_Meet-4285F4?style=for-the-badge&labelColor=black&logo=google%20meet&logoColor=4285F4)](https://meet.google.com/)
+[![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black&logo=chatgpt&logoColor=008080)](#)
+
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
