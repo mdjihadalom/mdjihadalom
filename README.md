@@ -16,14 +16,15 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br>
 Hi there! 👋 I'm Md Jihad Alom,
+
 🎓 Computer Science and Technology student at Sylhet Polytechnic Institute.
 
 💻 I'm passionate about coding and exploring the vast world of technology.
 
 🚀 Always eager to learn and dive into something new in the realm of computer science.
 
-🌱 I believe in continuous learning and the power of curiosity to drive innovation
-.
+🌱 I believe in continuous learning and the power of curiosity to drive innovation.
+
 🎯 My goal is to contribute to the tech community and make a positive impact through my work.
 
 🎯 Developing not just applications but solutions to real-world problems.
