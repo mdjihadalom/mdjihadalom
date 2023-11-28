@@ -41,7 +41,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
 
-[![Codeforces Profile](https://cfrating.ihcr.top/?user=jihadalom191)](https://codeforces.com/profile/jihadalom191)
+[![Codeforces Profile](https://cfrating.ihcr.top/?user=jihadalom191)](https://codeforces.com/profile/mdjihadalom)
 
 
 <div align="center" width=100%>
