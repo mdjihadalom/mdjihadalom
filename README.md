@@ -65,18 +65,18 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 ## Tools 
 
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
-[![Code Block Badge](https://img.shields.io/badge/Code_Block-555555?style=for-the-badge&labelColor=black)](#)
-[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) 
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#)  
+ [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
+[![Code Block Badge](https://img.shields.io/badge/Code_Block-555555?style=for-the-badge&labelColor=black&logo=code)](#)
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
+[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=black&logo=microsoft%20word&logoColor=2B579A)](#)
+[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft%20excel&logoColor=217346)](#)
+[![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft%20powerpoint&logoColor=B7472A)](#)
 [![OneNote Badge](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&labelColor=black&logo=onenote&logoColor=7719AA)](https://www.onenote.com/)
-[![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
-[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
+[![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#)
+[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#)
 [![Google Meet Badge](https://img.shields.io/badge/Google_Meet-4285F4?style=for-the-badge&labelColor=black&logo=google%20meet&logoColor=4285F4)](https://meet.google.com/)
 [![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black&logo=chatgpt&logoColor=008080)](#)
-
-
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
