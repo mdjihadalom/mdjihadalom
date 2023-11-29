@@ -77,7 +77,8 @@ Hi there! 👋 I'm Md Jihad Alom,
 [![Google Meet Badge](https://img.shields.io/badge/Google_Meet-4285F4?style=for-the-badge&labelColor=black&logo=google%20meet&logoColor=4285F4)](https://meet.google.com/)
 [![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black&logo=chatgpt&logoColor=008080)](#)
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+ ## Language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom&theme=dark)](https://git.io/streak-stats)
@@ -85,11 +86,8 @@ Hi there! 👋 I'm Md Jihad Alom,
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true)
 
-## Recent GitHub Activit:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Recent GitHub Activit:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadalom&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
- ##
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom)](https://github.com/anuraghazra/github-readme-stats)
 
 ## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=40%> ......for watching my github profile.
 
