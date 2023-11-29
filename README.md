@@ -91,20 +91,17 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 ----
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadalom&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
  
 </details>
-
-</br></br>
 
 ## 🐍 A Snake Eating My Contributions Graph
 
 <p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg">
-	</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 
