@@ -94,7 +94,8 @@ Hi there! 👋 I'm Md Jihad Alom,
  
 </details>
 
-<h2 align='left'>Thank You ❤</h2>
+ ## Thank You ❤
+
 <p align="center">
-  <img src="https://giphy.com/gifs/rvappstudios-thank-you-thanks-again-oPIP2FBEETTVMe7R3a" width="70%" height="65px">
+  <img src="https://media.giphy.com/media/oPIP2FBEETTVMe7R3a/giphy.gif" width="300px" height="300px">
 </p>
