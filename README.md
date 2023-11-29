@@ -96,14 +96,10 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 ## 🐍 A Snake Eating My Contributions Graph
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mdjihadalom/mdjihadalom/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
 
+[![Snake Game](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.gif)](https://github.com/your-username)
+[![Your Contributions](https://github.com/your-username/your-username/graphs/contributors)](https://github.com/your-username)
+This project is inspired by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) project.
 
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
