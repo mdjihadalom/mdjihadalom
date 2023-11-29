@@ -83,10 +83,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom)](https://git.io/streak-stats)
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom&theme=transparent)](https://git.io/streak-stats)
 </details>
   
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
