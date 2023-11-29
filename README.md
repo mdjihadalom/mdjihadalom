@@ -1,10 +1,9 @@
-<h1>this repo currently working...</h1>
 <h3 align="center">
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Assalamu alaikum ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <h3 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Welcome to Md Jihad Alom's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Welcome to Md Jihad Alom's---<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>---profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=🎓 I'm Md Jihad Alom;Computer Science and Technology student at; Sylhet Polytechnic Institute.;💻 I'm passionate about coding;🌱 I believe in continuous learning and; the power of curiosity to drive innovation.;🔍 Aiming to become a; professional software engineer;🎯 Developing not just applications but; solutions to real-world problems.;🔧 Focused on becoming a; meticulous problem solver;Connect with me, and; let's build a future where;technology meets creativity! 🚀" alt="Typing SVG" /></a>
@@ -86,6 +85,8 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom&theme=dark)](https://git.io/streak-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true)
+
 </details>
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
@@ -94,6 +95,10 @@ Hi there! 👋 I'm Md Jihad Alom,
  
 </details>
 
-## END..........
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=40%> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true)  
+
+## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=40%> ......for watching my github profile.
+
+# © MD JIHAD ALOM
