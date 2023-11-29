@@ -94,9 +94,6 @@ Hi there! 👋 I'm Md Jihad Alom,
  
 </details>
 
- ## Thank You ❤️
+## Thank You ❤️
 
-<p align="center">
-  <img src="https://media.giphy.com/media/example/example.gif" width="300px" height="300px">
-</p>
-
+## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=40%> 
