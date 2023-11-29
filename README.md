@@ -94,14 +94,7 @@ Hi there! 👋 I'm Md Jihad Alom,
  
 </details>
 
-## 🐍 A Snake Eating My Contributions Graph
-
-
-[![Snake Game](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.gif)](https://github.com/your-username)
-[![Your Contributions](https://github.com/your-username/your-username/graphs/contributors)](https://github.com/your-username)
-This project is inspired by the [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) project.
-
 <h2 align='left'>Thank You ❤</h2>
 <p align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70%" height="65px">
+  <img src="https://giphy.com/gifs/rvappstudios-thank-you-thanks-again-oPIP2FBEETTVMe7R3a" width="70%" height="65px">
 </p>
