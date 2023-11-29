@@ -71,7 +71,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 [![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=black&logo=microsoft%20word&logoColor=2B579A)](#)
 [![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft%20excel&logoColor=217346)](#)
 [![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft%20powerpoint&logoColor=B7472A)](#)
-[![OneNote Badge](https://img.shields.io/badge/OneNote-7719AA?style=for-the-badge&labelColor=black&logo=onenote&logoColor=7719AA)](https://www.onenote.com/)
+[![Microsoft OneNote Badge](https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&labelColor=black&logo=microsoft%20onenote&logoColor=7719AA)](https://www.onenote.com/)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#)
 [![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#)
@@ -83,6 +83,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom)](https://git.io/streak-stats)
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
 
