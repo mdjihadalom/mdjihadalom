@@ -3,14 +3,11 @@
 </h3>
 
 <h3 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Welcome to Md Jihad Alom's profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Welcome to Md Jihad Alom's---<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>---profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=🎓 I'm Md Jihad Alom, a Computer Science and Technology student at Sylhet Polytechnic Institute.💻 I'm passionate about coding.🔍 Aiming to become a professional software engineer.🚀 Connect with me, and let's build a future where technology meets creativity!
-" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=🎓 I'm Md Jihad Alom;Computer Science and Technology student at; Sylhet Polytechnic Institute.;💻 I'm passionate about coding;🌱 I believe in continuous learning and; the power of curiosity to drive innovation.;🔍 Aiming to become a; professional software engineer;🎯 Developing not just applications but; solutions to real-world problems.;🔧 Focused on becoming a; meticulous problem solver;Connect with me, and; let's build a future where;technology meets creativity! 🚀" alt="Typing SVG" /></a>
 </p>
-
-Connect with me:
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdjihadalom.191) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjihadalom) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadalom191@gmail.com) 
 
@@ -89,7 +86,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true)
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=10% valign="bottom"> Recent GitHub Activit:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Recent GitHub Activit:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadalom&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=8%> ......for watching my github profile.
