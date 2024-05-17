@@ -20,11 +20,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 💻 I'm passionate about coding and exploring the vast world of technology.
 
-🚀 Always eager to learn and dive into something new in the realm of computer science.
-
 🌱 I believe in continuous learning and the power of curiosity to drive innovation.
-
-🎯 My goal is to contribute to the tech community and make a positive impact through my work.
 
 🎯 Developing not just applications but solutions to real-world problems.
 
