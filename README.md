@@ -63,9 +63,7 @@ Hi there! 👋 I'm Md Jihad Alom,
 [![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=black&logo=microsoft%20word&logoColor=2B579A)](#)
 [![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft%20excel&logoColor=217346)](#)
 [![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft%20powerpoint&logoColor=B7472A)](#)
-[![Microsoft OneNote Badge](https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&labelColor=black&logo=microsoft%20onenote&logoColor=7719AA)](https://www.onenote.com/)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
-[![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black&logo=chatgpt&logoColor=008080)](#)
 
  ## Used Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom)](https://github.com/anuraghazra/github-readme-stats)
