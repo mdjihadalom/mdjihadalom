@@ -65,9 +65,6 @@ Hi there! 👋 I'm Md Jihad Alom,
 [![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft%20powerpoint&logoColor=B7472A)](#)
 [![Microsoft OneNote Badge](https://img.shields.io/badge/Microsoft_OneNote-7719AA?style=for-the-badge&labelColor=black&logo=microsoft%20onenote&logoColor=7719AA)](https://www.onenote.com/)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#)
-[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#)
-[![Google Meet Badge](https://img.shields.io/badge/Google_Meet-4285F4?style=for-the-badge&labelColor=black&logo=google%20meet&logoColor=4285F4)](https://meet.google.com/)
 [![ChatGPT Badge](https://img.shields.io/badge/ChatGPT-008080?style=for-the-badge&labelColor=black&logo=chatgpt&logoColor=008080)](#)
 
  ## Used Language:
