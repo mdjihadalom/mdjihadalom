@@ -49,12 +49,10 @@ Hi there! 👋 I'm Md Jihad Alom,
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ##  Backend  
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
-
 ## Tools 
 
  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
