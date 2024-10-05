@@ -20,11 +20,9 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 💻 I'm passionate about coding and exploring the vast world of technology.
 
-🌱 I believe in continuous learning and the power of curiosity to drive innovation.
-
 🎯 Developing not just applications but solutions to real-world problems.
 
-🔧 Focused on becoming a meticulous problem solver, tackling complex issues with creativity and precision.
+🔧 Focused on becoming a meticulous problem solver.
 
 🎓 Connect with me, and let's build a future where technology meets creativity! 🚀
 <be>
@@ -44,18 +42,16 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
-[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap5&logoColor=553C7B)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 ##  Backend  
 
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.w3schools.com/sql/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 ## Tools 
 
  [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
-[![Code Block Badge](https://img.shields.io/badge/Code_Block-555555?style=for-the-badge&labelColor=black&logo=code)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
 [![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=black&logo=microsoft%20word&logoColor=2B579A)](#)
 [![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft%20excel&logoColor=217346)](#)
