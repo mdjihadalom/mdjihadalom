@@ -3,7 +3,7 @@
 </h3> 
 
 <h3 align="center">
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ! Welcome to Md Jihad Alom's---<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>---profile ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+! Welcome to Md Jihad Alom's---<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>---profile !
 </h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=🎓 I'm Md Jihad Alom;Computer Science and Technology student at; Sylhet Polytechnic Institute.;💻 I'm passionate about coding; Aiming to become a; professional software engineer;Connect with me, and; let's build a future where;technology meets creativity! 🚀" alt="Typing SVG" /></a>
