@@ -18,16 +18,14 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 🎓 Computer Science and Technology student at Sylhet Polytechnic Institute.
 
-💻 I'm passionate about coding and exploring the vast world of technology.
+💻 I'm passionate about coding and exploring the vast world of technology. 
 
-🎯 Developing not just applications but solutions to real-world problems.
-
-🔧 Focused on becoming a meticulous problem solver.
+🎯 Focused on becoming a meticulous problem solver.
 
 🎓 Connect with me, and let's build a future where technology meets creativity! 🚀
 <be>
 
-<!-- Competitive Programming Profiles --> 
+<!-- Programming Profiles --> 
 
 ## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
 
@@ -49,9 +47,9 @@ Hi there! 👋 I'm Md Jihad Alom,
   <a href="#"><img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B" alt="WordPress Badge"/></a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&labelColor=black&logo=google&logoColor=4CAF50" alt="SEO Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29" alt="Git Badge"/></a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="GitHub Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29" alt="Git Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB" alt="Canva Badge"/></a>
   <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma Badge"/></a>
