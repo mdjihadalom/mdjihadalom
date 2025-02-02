@@ -38,24 +38,17 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 [![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jihadalom191)
 
-##  Frontend 
+##  Technology & Tools Skill 
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
 [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap5&logoColor=553C7B)](#) 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
-##  Backend  
-
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-## Tools 
-
- [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#)
+[![WordPress Badge](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B)](#)    
+[![Elementor Badge](https://img.shields.io/badge/-Elementor-92003B?style=for-the-badge&labelColor=black&logo=elementor&logoColor=92003B)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#)
-[![Microsoft Word Badge](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&labelColor=black&logo=microsoft%20word&logoColor=2B579A)](#)
-[![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=microsoft%20excel&logoColor=217346)](#)
-[![Microsoft PowerPoint Badge](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&labelColor=black&logo=microsoft%20powerpoint&logoColor=B7472A)](#)
 [![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#)
 
  ## Used Language:
