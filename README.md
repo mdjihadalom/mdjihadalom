@@ -49,6 +49,8 @@ Hi there! 👋 I'm Md Jihad Alom,
   <a href="#"><img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B" alt="WordPress Badge"/></a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&labelColor=black&logo=google&logoColor=4CAF50" alt="SEO Badge"/></a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="GitHub Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29" alt="Git Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB" alt="Canva Badge"/></a>
   <a href="https://www.figma.com/" target="_blank">
