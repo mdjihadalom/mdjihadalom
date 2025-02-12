@@ -20,7 +20,7 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6%> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=15%>
 <br>
-<p> Hi there! Hi there! I’m Md Jihad Alom,<br>
+<p> Hi there! I’m Md Jihad Alom,<br>
     a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
     I’m passionate about programming and work to improve my skills.<br>
     My main focus is WordPress,and I’m excited to learn, share, and work with WordPress.</p>
@@ -56,7 +56,7 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=mdjihadalom&theme=default&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjihadalom&theme=default)](https://git.io/streak-stats)
 
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true&theme=light)
