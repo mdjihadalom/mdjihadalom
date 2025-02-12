@@ -27,14 +27,10 @@ Hi there! 👋 I'm Md Jihad Alom,
 
 <!-- Programming Profiles --> 
 
-## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles
+## <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My LeetCode Programming Profiles
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
-
-[![Codeforces Profile](https://cfrating.ihcr.top/?user=jihadalom191)](https://codeforces.com/profile/mdjihadalom)
-
-[![HackerRank Profile](https://img.shields.io/badge/HackerRank-Profile-brightgreen?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/jihadalom191)
 
 ##  Technology & Tools Skill 
 
