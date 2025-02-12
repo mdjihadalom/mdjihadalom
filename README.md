@@ -1,10 +1,10 @@
 <h3 align="center">
-  ! Assalamu alaikum !
+   Assalamu alaikum
 </h3> 
 
-<h3 align="center">
-! Welcome to Md Jihad Alom's---<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>---profile !
-</h3>
+<h2 align="center">
+! Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>-profile !
+</h2>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=🎓 I'm Md Jihad Alom;Computer Science and Technology student at; Sylhet Polytechnic Institute.;💻 I'm passionate about coding; Connect with me, and; let's build a future where;technology meets creativity! 🚀" alt="Typing SVG" /></a>
 </p>
@@ -29,7 +29,7 @@
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
 
-##  Technology & Tools Skill 
+## Technology & Tools Skill 
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26" alt="HTML5 Badge"/></a>
@@ -57,6 +57,5 @@
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true&theme=light)
 
-## 📊 GitHub Profile Summary:
+## GitHub Profile Summary:
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjihadalom&theme=github)
-
