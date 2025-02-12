@@ -60,8 +60,8 @@ Hi there! 👋 I'm Md Jihad Alom,
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true&theme=light)
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=3% valign="bottom"> Recent GitHub Activit:
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadalom&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📊 GitHub Profile Summary:
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjihadalom&theme=github)
 
 ## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=8%> ......for watching my github profile.
 
