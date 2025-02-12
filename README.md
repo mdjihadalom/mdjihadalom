@@ -11,10 +11,15 @@
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdjihadalom.191) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjihadalom) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadalom191@gmail.com) 
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
-<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4%> About me
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=20%>
 <br>
-Hi there! I’m Md Jihad Alom, a diploma graduate from Sylhet Polytechnic Institute, Bangladesh. I’m passionate about programming and work to improve my skills. My main focus is WordPress, and I’m excited to learn, share, and work with WordPress.
+<p> Hi there! Hi there! I’m Md Jihad Alom,<br>
+    a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
+    I’m passionate about programming and work to improve my skills.<br>
+    My main focus is WordPress,<br>
+    and I’m excited to learn, share, and work with WordPress.</p>
 <be>
 
 <!-- Programming Profiles --> 
