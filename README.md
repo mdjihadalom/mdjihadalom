@@ -51,16 +51,16 @@ Hi there! 👋 I'm Md Jihad Alom,
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma Badge"/></a>
 </p>
 
- ## Used Language:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom)](https://github.com/anuraghazra/github-readme-stats)
+## Used Language:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mdjihadalom&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mdjihadalom&theme=default&hide_border=true)](https://git.io/streak-stats)
 
 ## GitHub stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true&theme=light)
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Recent GitHub Activit:
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=3% valign="bottom"> Recent GitHub Activit:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdjihadalom&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=8%> ......for watching my github profile.
