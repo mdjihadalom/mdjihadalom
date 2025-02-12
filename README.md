@@ -55,9 +55,6 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 ## Used Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
-## GitHub Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdjihadalom&theme=default)](https://git.io/streak-stats)
-
 ## GitHub stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdjihadalom&show_icons=true&count_private=true&theme=light)
 
