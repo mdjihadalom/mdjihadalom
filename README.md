@@ -3,7 +3,7 @@
 </h3> 
 
 <h2 align="center">
-Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>-profile
+Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>-profile
 </h2>
 
 <div style="text-align: center;">
@@ -23,16 +23,8 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 <p> Hi there! Hi there! I’m Md Jihad Alom,<br>
     a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
     I’m passionate about programming and work to improve my skills.<br>
-    My main focus is WordPress,<br>
-    and I’m excited to learn, share, and work with WordPress.</p>
+    My main focus is WordPress,and I’m excited to learn, share, and work with WordPress.</p>
 <be>
-
-<!-- Programming Profiles --> 
-
-## My LeetCode Programming Profiles
-
-<!-- https://leetcard.jacoblin.cool/ --> 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
 
 ## Technology & Tools Skill 
 
@@ -52,6 +44,13 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
   <a href="https://www.figma.com/" target="_blank">
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma Badge"/></a>
 </p>
+
+<!-- Programming Profiles --> 
+
+## My LeetCode Programming Profiles
+
+<!-- https://leetcard.jacoblin.cool/ --> 
+![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
 
 ## Used Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
