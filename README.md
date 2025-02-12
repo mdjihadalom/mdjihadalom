@@ -14,15 +14,7 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 <br>
-Hi there! 👋 I'm Md Jihad Alom,
-
-🎓 Computer Science and Technology student at Sylhet Polytechnic Institute.
-
-💻 I'm passionate about coding and exploring the vast world of technology. 
-
-🎯 Focused on becoming a meticulous problem solver.
-
-🎓 Connect with me, and let's build a future where technology meets creativity! 🚀
+Hi there! I’m Md Jihad Alom, a diploma graduate from Sylhet Polytechnic Institute, Bangladesh. I’m passionate about programming and work to improve my skills. My main focus is WordPress, and I’m excited to learn, share, and work with WordPress.
 <be>
 
 <!-- Programming Profiles --> 
@@ -63,6 +55,3 @@ Hi there! 👋 I'm Md Jihad Alom,
 ## 📊 GitHub Profile Summary:
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdjihadalom&theme=github)
 
-## <img src="https://media.giphy.com/media/9Gp5ZwY8FRvna/giphy.gif" width=8%> ......for watching my github profile.
-
-# © MD JIHAD ALOM
