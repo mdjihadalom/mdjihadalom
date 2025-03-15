@@ -47,10 +47,12 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
 
 <!-- Programming Profiles --> 
 
-## My LeetCode Programming Profiles
+<!--## My LeetCode Programming Profiles
 
 <!-- https://leetcard.jacoblin.cool/ --> 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
+
+-->
 
 ## Used Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
