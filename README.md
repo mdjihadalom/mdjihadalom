@@ -45,15 +45,6 @@ Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma Badge"/></a>
 </p>
 
-<!-- Programming Profiles --> 
-
-<!--## My LeetCode Programming Profiles
-
-<!-- https://leetcard.jacoblin.cool/ --> 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jihadalom191?theme=nord&font=Salsa&ext=activity)
-
--->
-
 ## Used Language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjihadalom&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
