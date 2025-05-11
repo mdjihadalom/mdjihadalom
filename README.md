@@ -6,12 +6,6 @@
 Welcome to Md Jihad Alom's-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='25'>-profile
 </h2>
 
-<div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=100&lines=🎓+Hi,+I'm+Md+Jihad+Alom;+a+diploma+graduate+from;+Sylhet+Polytechnic+Institute,+Bangladesh.;💻+I'm+passionate+about+programming;+and+focused+on+improving+my+skills.;+My+main+area+of+interest+is+WordPress;+and+I'm+excited+to+learn,+share;+and+work+with+it." alt="Typing Animation" style="max-width: 100%; margin: 0 auto; display: block;" />
-    </a>
-</div>
-
 ## Connect with me
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdjihadalom.191) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjihadalom) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadalom191@gmail.com) 
