@@ -19,8 +19,6 @@
   <a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Badge"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&labelColor=black&logo=wordpress&logoColor=21759B" alt="WordPress Badge"/></a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge&labelColor=black&logo=google&logoColor=4CAF50" alt="SEO Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29" alt="Git Badge"/></a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white" alt="GitHub Badge"/></a>
