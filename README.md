@@ -1,6 +1,6 @@
 
 
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6%> About me
+## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6%> About me :
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=15%>
 <br>
 <p> Hi there! I’m Md Jihad Alom,<br>
@@ -8,8 +8,8 @@
     I’m passionate about programming and work to improve my skills.<br>
     My main focus is WordPress,and I’m excited to learn, share, and work with WordPress.</p>
 <be>
-
-## Technology & Tools Skill 
+    
+## Technology & Tools Skill :
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26" alt="HTML5 Badge"/></a>
@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E" alt="Figma Badge"/></a>
 </p>
 
-## Connect with me
+## Connect with me :
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdjihadalom.191) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdjihadalom) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadalom191@gmail.com) 
 
