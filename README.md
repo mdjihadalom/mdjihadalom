@@ -4,7 +4,7 @@
 <p> Hi there! I’m Md Jihad Alom,<br>
     a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
     I’m passionate about programming and work to improve my skills.<br>
-    My main focus is WordPress and PHP, and I’m passionate about learning, sharing, and building with them.</p>
+    My main focus is WordPress and PHP, and I’m passionate about learning, sharing and building with them.</p>
 <be>
     
 ## Technology & Tools Skill :
