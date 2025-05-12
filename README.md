@@ -6,12 +6,12 @@
 <p> Hi there! I’m Md Jihad Alom,<br>
     a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
     I’m passionate about programming and work to improve my skills.<br>
-    My main focus is WordPress,and I’m excited to learn, share, and work with WordPress.</p>
+    My main focus is WordPress and PHP, and I’m passionate about learning, sharing, and building with them.</p>
 <be>
     
 ## Technology & Tools Skill :
 
-<p align="center">
+<p>
   <a href="#"><img src="https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26" alt="HTML5 Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6" alt="CSS3 Badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript Badge"/></a>
