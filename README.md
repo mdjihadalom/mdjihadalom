@@ -2,7 +2,7 @@
 ## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 4%> About me :
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=15%>
 <p> Hi there! I’m Md Jihad Alom,<br>
-    a diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
+    a Web Developer and Diploma graduate from Sylhet Polytechnic Institute, Bangladesh.<br>
     I’m passionate about programming and work to improve my skills.<br>
     My main focus is WordPress and PHP and I’m passionate about learning, sharing and building with them.</p>
 <be>
