@@ -1,4 +1,4 @@
-![Banner](Md%20Jihad%20Alom%20Banner%20-%20Wordpress%20developer.png)
+![Banner](Md Jihad Alom Web Developer.png)
 
     
 ## Technology & Tools Skill :
